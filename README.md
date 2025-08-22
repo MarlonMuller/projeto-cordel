@@ -45,9 +45,11 @@ O projeto foi inspirado no estilo de literatura de cordel nordestina, misturando
    ```bash
    git clone https://github.com/MarlonMuller/projeto-cordel
    ```
-
-2. Acesse a pasta do projeto e abra o arquivo `index.html` no navegador.
-
+2. Acesse a pasta do projeto:
+```bash
+cd projeto-cordel
+```
+3. Abra o arquivo `index.html` no navegador. 
 ---
 
 ## 📚 O que eu aprendi
@@ -69,8 +71,7 @@ O projeto foi inspirado no estilo de literatura de cordel nordestina, misturando
 
 ## ✍️ Autor
 
-Desenvolvido por **Marlon Müller**  
-[GitHub](https://github.com/MarlonMuller)
+### Desenvolvido por **[Marlon Muller](https://github.com/MarlonMuller)**
 
 ---
 
